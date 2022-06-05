@@ -1,2 +1,1 @@
-# Code Refactor Starter Code
-# Module-1-Challenge
+Horiseon webpage explaining search engine optimization, online reputation management, and socail media marketing.
